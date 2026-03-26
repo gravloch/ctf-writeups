@@ -1,8 +1,11 @@
 
-> **Author:** Yahaya Meddy 
-> **Category:** Reverse Engineering 
-> **Difficulty:** Easy–Medium 
-> **Tags:** #reverse-engineering #xor #cryptography #upx #known-plaintext-attack
+ **Author:** Yahaya Meddy
+
+ **Category:** Reverse Engineering
+
+ **Difficulty:** Easy–Medium
+
+ **Tags:** #reverse-engineering #xor #cryptography #upx #known-plaintext-attack
 
 ---
 
